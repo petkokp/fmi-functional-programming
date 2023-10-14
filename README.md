@@ -1,0 +1,1 @@
+Assignments for the Functional programming course in FMI.
