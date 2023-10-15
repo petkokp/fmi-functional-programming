@@ -7,3 +7,8 @@
         (reverse-helper (quotient n 10) (+ (* result 10) (remainder n 10)))))
 
   (reverse-helper n 0))
+
+(define (palindrome? n)
+  (= n (reverse-digits n)))
+
+(palindrome? 32123)
