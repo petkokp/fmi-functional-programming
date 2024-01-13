@@ -1,1 +1,1 @@
-example text
+this is example input
